@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Auburn built "Grapplinghook" app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
+Auburn built "Grappling Hook Mod For MCPE" app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
 
 This privacy policy is used to inform you regarding policies with the collection, use, and 
 disclosure of Personal Information if anyone decided to use this Service.
